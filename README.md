@@ -8,5 +8,5 @@ pkg install nodejs
 pkg install git
 git clone https://github.com/Cpmhaoproject/Termux-translate.git
 cd Termux-translate
-node 加密_autofy.js
+node 混淆_autofy.js
 ```
